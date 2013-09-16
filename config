@@ -1,0 +1,5 @@
+# primary section
+Section core
+ algo URandom
+ length 16
+EndSection
